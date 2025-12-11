@@ -1,7 +1,7 @@
 # Reducing-Road-Risk-Understanding-Traffic-Collisions
 *BA775 Business Analytics Toolbox – Fall 2025*
 
-**Group Members:** Alex Jiang, Erica (Kyuwon) Kim, Kean Zhu, Mahesh Wadhokar, and Inchara Ashok
+**Group Members:** Alex Jiang, Erica (Kyuwon) Kim, Kean Zhu, Mahesh Wadhokar, and myself
 
 ---
 
